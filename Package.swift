@@ -71,7 +71,7 @@ extension Package.Dependency {
 }
 
 let package = Package(
-  name: "GBeatKit",
+  name: "FODDeliverable",
   defaultLocalization: "en",
   platforms: [.iOS(.v14), .macOS(.v13), .watchOS(.v7)],
   products: [
